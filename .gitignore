@@ -1,0 +1,16 @@
+credentials.json
+token.json
+openai_apikey.txt
+googleauth_check
+
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+# Ignore Jupyter Notebook output
+*.ipynb_output/
+# Ignore Jupyter Notebook temporary files
+*.ipynb_*
+# Ignore Jupyter Notebook hidden files
+.*.ipynb
+# Ignore Jupyter Notebook configuration files
+*.nbconfig.json
